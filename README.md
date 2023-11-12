@@ -1,5 +1,5 @@
 # standoffcasebot
-Это бот Standoff 2.
+Это бот Standoff 2
 В нём есть кейсы: 
 
 - Subject X 📦
