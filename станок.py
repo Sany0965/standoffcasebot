@@ -7,7 +7,7 @@ import datetime
 from telebot import types
 
 # Замените 'YOUR_BOT_TOKEN' на ваш токен бота
-TOKEN = '6952697606:AAGaIRQMVMpEGbBZ8yHU9mnfSWIXdoc25Bk'
+TOKEN = 'YOUR_BOT_TOKEN'
 
 bot = telebot.TeleBot(TOKEN)
 
